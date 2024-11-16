@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<p>👩‍💻I'm an HR manager in an EDTech company, but i want to rebrand myself into IT field to become a front-end developer.
+<p>👩‍💻I'm an HR manager in an EDTech company, but i want to rebrand myself for an IT field to become a front-end developer.
 <br>🌱 Currently I'm learning primary information on front-end development, such as HTML, CSS, JS & many others...</p>
 
 <h3 align="left" class="heading-element" dir="auto">🛠️ Skills to be mastered</h3>
