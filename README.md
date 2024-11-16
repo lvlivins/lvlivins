@@ -12,7 +12,7 @@
 <br>🌱 Currently I'm learning primary information on front-end development, such as HTML, CSS, JS & many others.</p>
 <p>Catch up soon......</p>
 
-<h3 align="left" class="heading-element" dir="auto">Skills to be mastered</h3>
+<h3 align="left" class="heading-element" dir="auto">Skills I want to learn:</h3>
 <p>
 <a href="https://www.figma.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/e5c1b4b7d59d58f0607fede5dd922211257cd09031f3c2370308ab4e34356299/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="figma" width="30" height="30" data-canonical-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="max-width: 100%;"></a>
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"></a>
