@@ -8,8 +8,8 @@
   </a>
 </div>
 
-<p>👩‍💻 I'm an HR manager in an EDTech company.
-🌱 Currently I'm learning primary information on web development, such as HTML, CSS, JS & many others.</p>
+<pre>👩‍💻 I'm an HR manager in an EDTech company.
+🌱 Currently I'm learning primary information on web development, such as HTML, CSS, JS & many others.</pre>
 
 <h3 align="left" class="heading-element" dir="auto">Skills I want to learn:</h3>
 <p>
